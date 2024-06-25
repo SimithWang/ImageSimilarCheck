@@ -1,0 +1,3 @@
+input_folder: "E:\\FFOutput\\JT-WYJJWX-004_original"
+output_folder: "E:\\FFOutput\\JT-WYJJWX-004"
+similarity_threshold: 0.95
